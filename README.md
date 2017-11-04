@@ -49,4 +49,4 @@ Currently, this repo has 2 major parts you may be interested in and I will give 
 
 ## Milestones
 
-  - **2017-11-04**: Started the specialization, YAY! 😈
+  - **2017-10-04**: Started the specialization, YAY! 😈

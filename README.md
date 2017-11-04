@@ -10,9 +10,9 @@ This repo contains all my work for the deeplearning.ia specialization by Andrew 
 
 ## About Me
 
-In am skilled in programming and statistical modeling. I am passionate about building big data architeatures, applying machine learning models, programming data products and creating visualizations to solve business problems. And now I am in the path for learning Deep Learning and IA. In This reposirotry I share **my solutions** which are **only for your reference purpose**. And its not allowed to copy any part of the code or to copy the quiz solutions
+In am skilled in programming and statistical modeling. I am passionate about building big data architeatures, applying machine learning models, programming data products and creating visualizations to solve business problems. And now I am in the path for learning Deep Learning and AI. In This reposirotry I share **my solutions** which are **only for reference purpose**. And its not allowed to copy any part of the code or to copy the quiz solutions.
 
-Currently, this repo has 3 major parts you may be interested in and I will give a list here.
+Currently, this repo has 2 major parts you may be interested in and I will give a list here.
 
 ## Programming Assignments
 

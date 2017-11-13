@@ -38,15 +38,14 @@ Currently, this repo has 2 major parts you may be interested in and I will give 
 - Course 4: Convolutional Neural Networks (I have not started yet)
 - Course 5: Sequence Models (I have not started yet)
 
+<!---
 ## Quiz Solutions
-
 - [Course 1: Neural Networks and Deep Learning](https://github.com/marcusos/deeplearning-ai-coursera/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Practice%20Questions)
-
 - [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/marcusos/deeplearning-ai-coursera/tree/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Practice%20Questions)
-
 - Course 3: Structuring Machine Learning Projects
 - Course 4: Convolutional Neural Networks
 - Course 5: Sequence Models
+-->
 
 ## Milestones
 

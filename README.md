@@ -38,8 +38,9 @@ Currently, this repo has 2 major parts you may be interested in and I will give 
 - Course 4: Convolutional Neural Networks
   - [Week 1 - PA 1 - Step by Step](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%201%20-%20Foundations%20of%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
   - [Week 1 - PA 2 - Application ](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%201%20-%20Foundations%20of%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
-  - [Week 2 - PA 1 - Keras Tutorial](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%202%20-%20Deep%20convolutional%20models%20case%20studies/KerasTutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
-  - [Week 2 - PA 2 - ResNets ](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%202%20-%20Deep%20convolutional%20models%20case%20studies/ResNets/Residual%2BNetworks%2B-%2Bv2.ipynb)
+  - [Week 2 - PA 3 - Keras Tutorial](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%202%20-%20Deep%20convolutional%20models%20case%20studies/KerasTutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+  - [Week 2 - PA 4 - ResNets ](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%202%20-%20Deep%20convolutional%20models%20case%20studies/ResNets/Residual%2BNetworks%2B-%2Bv2.ipynb)
+  - [Week 3 - PA 5 - Car detection with YOLOv2 ](https://github.com/marcusos/deeplearning-ai-coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203%20%20-%20Car%20detection%20for%20Autonomous%20Driving/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv1.ipynb)
   
 - Course 5: Sequence Models (I have not started yet)
 
